@@ -90,8 +90,8 @@
       },
       "edge": {
         "completeness": "partially",
-        "since": "Canary",
-        "has_details": true
+        "since": "79",
+        "has_details": false
       },
       "firefox": {
         "completeness": "intent",
@@ -103,6 +103,11 @@
         "completeness": "yes",
         "has_details": true,
         "since": "Chrome 65"
+      },
+      "edge": {
+        "completeness": "yes",
+        "since": "79",
+        "has_details": false
       },
       "opera": {
         "completeness": "yes",
@@ -133,6 +138,11 @@
         "has_details": "true",
         "since": "Chrome 78"
       },
+      "edge": {
+        "completeness": "yes",
+        "since": "79",
+        "has_details": false
+      },
       "firefox": {
         "completeness": "development",
         "has_details": true
@@ -148,6 +158,11 @@
         "completeness": "yes",
         "has_details": true,
         "since": "Chrome 66"
+      },
+      "edge": {
+        "completeness": "yes",
+        "since": "79",
+        "has_details": false
       },
       "firefox": {
         "completeness": "intent",
@@ -173,6 +188,11 @@
         "completeness": "partially",
         "has_details": true,
         "since": "Canary"
+      },
+      "edge": {
+        "completeness": "partially",
+        "since": "79",
+        "has_details": false
       }
     },
     "fontmetrics": {
